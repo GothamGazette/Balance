@@ -46,7 +46,7 @@
 			if ( !params ) return
 			
 			var loader	: URLLoader 	= new URLLoader()
-			var request	: URLRequest 	= new URLRequest("budget_submit.php")
+			var request	: URLRequest 	= new URLRequest("dbconnect.php")
             var vars	: URLVariables 	= new URLVariables()
 
 			var var2: Object 			= form.getValues()

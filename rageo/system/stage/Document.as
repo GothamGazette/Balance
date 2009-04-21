@@ -1,14 +1,8 @@
 ﻿/*------------------------------------------------------------------------------------------------------------------
 
-
-
-
     DOCUMENT
 	
-	Copyright (C) http://www.yohami.com All Rights Reserved.
-	
-
-	
+	Copyright (C) http://www.gothamgazette.com All Rights Reserved.
 	
 --------------------------------------------------------------------------------------------------------------------*/
 
@@ -54,7 +48,7 @@ package rageo.system.stage
 
 			if ( loadConfig ) 
 			{
-				new URLConnector( "content/config.xml", _onConfig )
+				new URLConnector( "config.xml", _onConfig )
 				return
 			}
 
