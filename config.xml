@@ -1,0 +1,348 @@
+<data> 
+<Default> 
+	<header> 
+		<title></title>
+		<subtitle></subtitle>
+		<back>RETURN TO MAIN</back>
+		<compare>COMPARE YOUR FIGURES</compare>
+	</header>
+ </Default>
+ <SplashPage> 
+	<title></title>
+	<subtitle><![CDATA[]]></subtitle>
+	 <pretitle><![CDATA[]]></pretitle>
+	 <text><![CDATA[]]></text>
+	 <play_button>Play Button</play_button>
+ </SplashPage>
+ <DashboardPage> 
+ 	<expenditures> 
+		<title></title>
+		<text><![CDATA[]]></text>
+	 </expenditures>
+	 <revenues> 
+		<title></title>
+		<text><![CDATA[]]></text>
+	 </revenues>
+	<deficit>
+		<title></title>
+		<text><![CDATA[]]></text>
+	</deficit>
+	<compare>
+		<title></title>
+		<text><![CDATA[]]></text>
+	</compare>
+</DashboardPage>
+<ExpendituresPage>
+	<tip><![CDATA[]]></tip>
+	<source><![CDATA[]]></source>
+	<numbers>--</numbers>
+	<lastyear>
+		<title></title>
+	</lastyear>
+	<projected>
+		<title></title>
+	</projected>
+	<changes>
+		<title></title>
+	</changes>
+	<pagename>EXPENDINGS</pagename>
+	<sliderMargin>18</sliderMargin>
+	<sliderMax>9999999999</sliderMax>
+	<sliders>
+	<item><!--aging-->
+		<title></title>
+		<value>298851000</value>
+		<tip><![CDATA[]]></tip>
+		<news>none</news>
+		<info><![CDATA[]]></info>
+		<alert></alert>
+	</item>
+	<item><!--children-->
+		<title></title>
+		<value>3109383000</value>
+		<tip><![CDATA[]]></tip>
+		<news></news>
+		<info><![CDATA[]]></info>
+		<alert><![CDATA[]]></alert>
+	</item>
+	<item><!--corrections-->
+		<title></title>
+		<value>1070865000</value>
+		<tip><![CDATA[]]></tip>
+		<news></news>
+		<info><![CDATA[]]></info>
+		<alert></alert>
+	</item>
+	<item><!--education-->
+		<title></title>
+		<value>18271607000</value>
+		<tip><![CDATA[]]></tip>
+		<news></news>
+		<info><![CDATA[]]></info>
+		<alert><![CDATA[]]></alert>
+	</item>
+	<item><!--fire-->
+		<title></title>
+		<value>1569331000</value>
+		<tip><![CDATA[]]></tip>
+		<news></news>
+		<info><![CDATA[]]></info>
+		<alert><![CDATA[]]></alert>
+	</item>
+	<item><!--health-->
+		<title></title>
+		<value>1898582000</value>
+		<tip><![CDATA[]]></tip>
+		<news></news>
+		<info><![CDATA[]]></info>
+		<alert></alert>
+	</item>
+	<item><!--libraries-->
+		<title></title>
+		<value>454194000</value>
+		<tip><![CDATA[]]></tip>
+		<news></news>
+		<info><![CDATA[]]></info>
+		<alert></alert>
+	</item>
+	<item><!--parks-->
+		<title></title>
+		<value>359136000</value>
+		<tip><![CDATA[]]></tip>
+		<news></news>
+		<info><![CDATA[]]></info>
+		<alert></alert>
+	</item>
+	<item><!--police-->
+		<title></title>
+		<value>4427878000</value>
+		<tip><![CDATA[]]></tip>
+		<news></news>
+		<info><![CDATA[]]></info>
+		<alert><![CDATA[]]></alert>
+	</item>
+	<item><!--sanitation-->
+		<title></title>
+		<value>1281762000</value>
+		<tip><![CDATA[]]></tip>
+		<news></news>
+		<info><![CDATA[]]></info>
+		<alert><![CDATA[]]></alert>
+	</item>
+	<item><!--social services-->
+		<title></title>
+		<value>9314713000</value>
+		<tip><![CDATA[]]></tip>
+		<news></news>
+		<info><![CDATA[]]></info>
+		<alert></alert>
+	</item>
+	<item><!--transportation-->
+		<title></title>
+		<value>789968000</value>
+		<tip><![CDATA[]]></tip>
+		<news></news>
+		<info><![CDATA[]]></info>
+		<alert></alert>
+	</item>
+	<item><!--urban environment-->
+		<title></title>
+		<value>1064261000</value>
+		<tip><![CDATA[]]></tip>
+		<news></news>
+		<info><![CDATA[]]></info>
+		<alert></alert>
+	</item>
+<!--		<item>
+		<title></title>
+		<value>0</value>
+		<tip>text</tip>
+		<news>text</news>
+		<info>text</info>
+		<alert>text</alert>
+	</item>
+-->
+</sliders>
+</ExpendituresPage>
+<RevenuesPage>
+<lastyear>
+		<title></title>
+</lastyear>
+<projected>
+		<title></title>
+</projected>
+<changes>
+		<title></title>
+</changes>
+<pagename>REVENUES</pagename>
+		<tip><![CDATA[]]></tip>
+		<source><![CDATA[]]></source>
+<box><![CDATA[]]></box>
+<citytitle></cityTitle>
+<statetitle></stateTitle>
+<sliderMargin>20</sliderMargin>
+<baseIncome>1000000000</baseIncome>
+<city>
+	<item><!--clothing-->
+		<value>436000000</value>
+		<title><![CDATA[]]></title>
+<!-- gov: city -->
+<!--type: check off-->
+		<news></news>
+		<check>0</check>
+		<tip><![CDATA[]]></tip>
+		<info><![CDATA[]]></info>
+	</item>
+	<item><!--salestax-->
+		<value>292000000</value>
+		<title><![CDATA[]]></title>
+<!-- gov: city -->
+		<news></news>
+		<check>1</check>
+		<tip><![CDATA[]]></tip>
+		<info><![CDATA[]]></info>
+		<alert><![CDATA[]]></alert>
+	</item>
+	<item><!--preservehoteltax-->
+		<value>8000000</value>
+		<title><![CDATA[]]></title>
+<!-- gov: city -->
+		<news></news>
+		<check>0</check>
+		<tip><![CDATA[]]></tip>
+		<info><![CDATA[]]></info>
+	</item>
+	<item><!--propertyhike-->
+		<value>5760000</value>
+		<title><![CDATA[]]></title>
+<!-- gov: city -->
+		<news></news>
+		<check>1</check>
+		<tip><![CDATA[]]></tip>
+		<info><![CDATA[]]></info>
+		<alert><![CDATA[]]></alert>
+	</item>
+</city>
+<state>
+	<item><!--restore_education-->
+		<title><![CDATA[]]></title>
+		<value>20600000</value>
+<!-- gov: state -->
+		<news></news>
+		<check>1</check>
+		<tip><![CDATA[]]></tip>
+		<info><![CDATA[]]></info>
+	</item>
+	<item><!--restore_local_aid-->
+		<title><![CDATA[]]></title>
+		<value>24600000</value>
+<!-- gov: state -->
+		<news></news>
+		<check>0</check>
+		<tip><![CDATA[]]></tip>
+		<info><![CDATA[]]></info>
+		<alert><![CDATA[]]></alert>
+	</item>
+	<item><!--toll_east_river-->
+		<title><![CDATA[]]></title>
+		<value>830000000</value>
+<!-- gov: state -->
+		<news></news>
+		<check>0</check>
+		<tip><![CDATA[]]></tip>
+		<info><![CDATA[]]></info>
+		<alert><![CDATA[]]></alert>
+	</item>
+	<item><!--restore_commuter-->
+		<title><![CDATA[]]></title>
+		<value>75500000</value>
+<!-- gov: state -->
+		<news></news>
+		<check>0</check>
+		<tip><![CDATA[]]></tip>
+		<info><![CDATA[]]></info>
+	</item>
+	<item><!--expand_bottlebill-->
+		<title><![CDATA[]]></title>
+		<value>55000000</value>
+<!-- gov: state -->
+		<news></news>
+		<check>0</check>
+		<tip><![CDATA[]]></tip>
+		<info><![CDATA[]]></info>
+	</item>
+	<item><!--incometax_7-->
+		<title><![CDATA[]]></title>
+		<value>585000000</value>
+<!-- gov: state -->
+		<news></news>
+		<check>0</check>
+		<tip><![CDATA[]]></tip>
+		<info><![CDATA[]]></info>
+	</item>
+	<item><!--incometax_15-->
+		<title><![CDATA[]]></title>
+		<value>1200000000</value>
+<!-- gov: state -->
+		<news></news>
+		<check>0</check>
+		<tip><![CDATA[]]></tip>
+		<info><![CDATA[]]></info>
+		<alert><![CDATA[]]></alert>
+	</item>
+	<item><!--incometax_wealthy-->
+		<title><![CDATA[]]></title>
+		<value>603000000</value>
+<!-- gov: state -->
+		<news></news>
+		<check>0</check>
+		<tip><![CDATA[]]></tip>
+		<info><![CDATA[]]></info>
+	</item>
+	<item><!--state_medicaid-->
+		<title><![CDATA[]]></title>
+		<value>4600000000</value>
+<!-- gov: state -->
+		<news></news>
+		<check>0</check>
+		<tip><![CDATA[]]></tip>
+		<info><![CDATA[]]></info>
+	</item>
+	<item><!--cosmetic_medical-->
+		<title><![CDATA[]]></title>
+		<value>65000000</value>
+<!-- gov: state -->
+		<news></news>
+		<check>0</check>
+		<tip><![CDATA[]]></tip>
+		<info><![CDATA[]]></info>
+	</item>
+	<item><!--capital_improve-->
+		<title><![CDATA[]]></title>
+		<value>259000000</value>
+<!-- gov: state -->
+		<news></news>
+		<check>0</check>
+		<tip><![CDATA[]]></tip>
+		<info><![CDATA[]]></info>
+	</item>
+</state>
+</RevenuesPage>
+<ComparePage>
+		<title></title>
+<submit></submit>
+</ComparePage>
+<SubmitPage>
+		<title></title>
+<text><![CDATA[]]></text>
+		<newsletter1></newsletter1>
+		<newsletter2></newsletter2>
+		<newsletter3></newsletter3>
+</SubmitPage>
+<ThanksPage>
+		<subtitle></subtitle>
+		<title></title>
+<text><![CDATA[]]></text>
+</ThanksPage>
+</data>
+
